@@ -1,0 +1,5 @@
+@startuml Code Design
+class MainClass{
+    void main()
+}
+@enduml
